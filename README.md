@@ -1,4 +1,11 @@
-# 🚗 HopShare Mobility — On-Demand Ride-Hailing, Social Carpooling & Split-Fare Transit Platform
+# 🚗 HopShare Mobility
+
+<p align=center>
+  <img src="assets/branding/logo.jpg" alt="HopShare Mobility Logo" width="180" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(16, 185, 129, 0.35);" />
+</p>
+
+> **On-Demand Ride-Hailing, Social Carpooling & Split-Fare Transit Platform** built with Flutter, Google Maps Routing, Firebase, and Stripe.
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
